@@ -30,8 +30,8 @@ A brief tour
 * Build profiles for the build system go in `profiles`.
 * The entrypoint of the demo application is the HTML file at
   `src/index.html`.
-* The `build.sh` script takes your application files and builds them for
-  production use using Stylus and the Dojo build system. It depends on the
+* The `build.sh`/`build.cmd` scripts take your application files and build them for
+  production use using Stylus and the Dojo build system. They depend on the
   presence of an application build profile at `profiles/app.profile.js`.
 * The file `src/app/resources/app.styl` contains all the CSS for the
   application.
