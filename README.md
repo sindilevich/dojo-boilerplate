@@ -20,11 +20,7 @@ Quick Start
 
 ### Windows Users
 
-If you have [msysgit](http://git-scm.com) installed, run Git Bash and verify
-some dependencies by running the following commands:
-
-    which java
-    which node
+Run `build.cmd`, which will create an awesome optimised build in `dist/`.
 
 A brief tour
 ------------
