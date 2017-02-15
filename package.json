@@ -8,10 +8,16 @@
 		"url": "https://github.com/sindilevich/dojo-boilerplate.git"
 	},
 	"devDependencies": {
-		"intern": "3.0.6",
-		"stylus": "0.48.1"
+		"intern": "^3.4.2",
+		"stylus": "^0.54.5"
 	},
 	"bugs": "https://github.com/sindilevich/dojo-boilerplate/issues",
-	"keywords": [ "JavaScript", "Dojo", "Boilerplate", "Example", "Howto" ],
+	"keywords": [
+		"JavaScript",
+		"Dojo",
+		"Boilerplate",
+		"Example",
+		"Howto"
+	],
 	"homepage": "https://github.com/sindilevich/dojo-boilerplate"
 }
